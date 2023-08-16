@@ -1,0 +1,274 @@
+
+/* Body */
+
+body{
+    background: #F6F6FA;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ol{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* Wrapper */
+
+.wrapper{
+    background: #FFF;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* Main Content */
+
+.main-content{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+
+/* SideBar */
+
+.aside{
+    background: #E0EBFE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+
+.sidebar-content{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+/* Contacts  */
+
+.contacts-title{
+color: #161D2A;
+font-size: 22px;
+font-weight: 700;
+line-height: normal;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+
+.contacts-type{
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px; 
+    margin-right: 8px;
+}
+.contacts-link{
+color: #2979FF;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-decoration-line: underline;
+}
+.contacts-item{
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.contacts-container{
+    margin-bottom: 40px;
+}
+
+/* Skills Container */
+
+.skills-container{
+    margin-bottom: 40px;
+}
+
+.skills-title{
+color: #161D2A;
+font-size: 22px;
+font-weight: 700;
+line-height: normal;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+
+.skills-list{
+    padding-left: 16px;
+
+}
+
+.skills-list-item{
+color: #161D2A;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px
+}
+
+
+/* Main content design */
+
+.my-profession{
+color: #000;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px; 
+margin-top: 0;
+margin-bottom: 8px;
+}
+
+.my-name{
+    color: #000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    margin-bottom: 12px;
+}
+
+.my-description{
+color: #595959;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; 
+}
+.my-info{
+    margin-bottom: 40px;
+}
+
+/* My projects Design */
+
+.projects-title{
+color: #000;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px;
+margin-top: 0;
+margin-bottom: 8px;
+}
+
+.projects-item{
+color: #000;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px; 
+}
+.projects-list{
+    padding-left: 16px;
+}
+
+.projects-item-link{
+color: #005FFF;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; 
+text-decoration-line: underline;
+}
+
+.projects-tech{
+color: #595959;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; 
+}
+
+.my-projects{
+    margin-bottom: 40px;
+}
+
+/* Work Experience */
+.work-experience-title{
+    color: #000;
+font-size: 22px;
+font-weight: 700;
+line-height: 27px; 
+margin-top: 0;
+margin-bottom: 8px;
+}
+
+.work-experience-comp{
+color: #000;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px; 
+margin-top: 0;
+margin-bottom: 12px;
+}
+.work-exp-add{
+color: #6D9BF5;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+}
+
+.work-data{
+color: #A8A8A8;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+margin-bottom: 8px; 
+}
+.line{
+color: #000;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+}
+.work-exp-list{
+padding-left: 16px;
+}
+.work-exp-item{
+    color: #595959;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px; 
+}
+.company{
+    margin-bottom: 12px;
+}
+
+/* Education */
+.education-cont{
+margin-top: 40px;
+}
+
+.education{
+color: #000;
+font-size: 22px;
+font-weight: 700;
+line-height: normal;
+margin-top: 0;
+margin-bottom: 8px;
+}
+.national{
+    color: #6D9BF5;
+font-size: 16px;
+font-weight: 700;
+line-height: normal;
+margin: 0 0 8px 0;
+}
+.management{
+    color: #000;
+font-size: 14px;
+font-weight: 700;
+line-height: normal;
+margin: 0 0 8px 0;
+}
+.education-data{
+    color: #A8A8A8;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+margin:0 0 8px 0;
+}
